@@ -3,6 +3,6 @@
  <body
   <h1> My name is Ethan Redmond </h1>
  
-  <b> I like to play soccer </b>
+  <p> I like to play soccer </p>
  </body>
 </html>
